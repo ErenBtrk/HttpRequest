@@ -1,0 +1,11 @@
+[
+  {
+    "---": 101,
+    "Surface": 110,
+    "Price": 500,
+    "BedroomsCount": 3,
+    "BathroomsCount": 2,
+    "Orientation": "(N=False,E=True,S=True,W=False)",
+    "Availability": "Available"
+  }
+]
